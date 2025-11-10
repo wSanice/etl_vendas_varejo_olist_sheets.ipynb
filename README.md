@@ -24,6 +24,6 @@ O arquivo `etl_vendas_varejo_olist_sheets.ipynb` é responsável pelas três eta
 
 Este notebook é o "back-end" do projeto. O "front-end" da análise (KPIs, filtros e gráficos) pode ser visualizado no dashboard interativo no link abaixo:
 
-<img width="960" height="456" alt="front" src="https://github.com/user-attachments/assets/2934929e-07a2-4093-8ed6-502eddb97433" />
+<img width="857" height="411" alt="front" src="https://github.com/user-attachments/assets/e614ed4e-719b-45c5-99d8-765a90b7b496" />
 
 **[Link para o Dashboard Interativo no Google Sheets](https://docs.google.com/spreadsheets/d/1tUZLQqLxO3obK7nMH3b_4pIqfOW2FMw9F63Tvb3Vrec/edit?usp=sharing)**
